@@ -1,3 +1,14 @@
+## ⚠️ WARNING: Unmaintained Repository
+
+> **This repository is no longer maintained or under active development.**  
+> There are currently **no plans to resume work** on this project.  
+> Please use at your own risk — no support will be provided, and issues or pull requests may not be reviewed.
+
+---
+
+> 💡 *Feel free to fork the repository if you wish to continue development independently.*
+
+
 <img src="https://user-images.githubusercontent.com/72500344/210864557-4078754f-86c1-4e7c-b291-73223bdf4e4d.png" alt="logo" width="200"/>
 
 # segment-lidar
